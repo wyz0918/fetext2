@@ -1,0 +1,223 @@
+html 
+{
+	height: 100%;
+}
+body
+{
+	height: 1110px;
+	background-color: #f6f0e2;
+	
+}
+nav
+{
+	height:auto;
+
+}
+#banner
+{
+	width:100%;
+	position: absolute;
+}
+#banner img
+{
+	position: absolute;
+	width:100%;
+	z-index: 100;
+	
+}
+nav ul 
+{
+	overflow: hidden;
+	position:absolute;
+	right:110px;
+	top:50px;
+	margin: 0;
+	padding: 0;
+	z-index: 120;
+    list-style:none;
+}
+nav ul li
+{
+	float:left;
+
+}
+
+nav ul li a
+{
+	display:block;
+	margin:5px 4px;
+width:90px;
+height:35px;
+line-height:28px;
+
+
+text-align:center;
+text-decoration:none;
+
+}
+.content
+{
+	display: block;
+	width: 81%;
+	height: 900px;
+	margin:auto auto;
+	background-color: #ffffff
+}
+
+.picture1 img
+{
+	margin-top: 14%;
+	margin-left: 3%;
+	width: 95%;
+}
+
+
+.text1 h1
+{
+	position: absolute;
+	top:25%;
+	left:66%;
+	width: 200px;
+	font-size: 25px;
+	letter-spacing: 2px;
+	color: #6e6758;
+	z-index: 140;
+}
+.text1 p
+{
+	position: absolute;
+	top:38%;
+	left:65%;
+	width: 200px;
+	font-size: 17px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	line-height: 24px;
+	color: #6e6758;
+	z-index: 140;
+}
+.section5
+{
+	position: absolute;
+	right: 16%;
+
+}
+.section5 h1
+{
+	margin:0px;
+	padding:0px;
+	color: #6e6758;
+}
+.section5 h2
+{
+	margin-top:25px;
+	padding:0px;
+	font-size: 30px;
+	color: #6e6758;
+}
+.section5 ul
+{
+	margin: 0;
+	padding: 0;
+	margin-top: -15px;
+	margin-left: 15px;
+	line-height: 25px;
+	color: #6e6758;
+
+
+}
+.section5 ul li a
+{
+	text-decoration: none;
+	color: #6e6758;
+
+}
+.section5 img
+{
+	position: absolute;
+	top: -1px;
+	right: 110%;
+	height: 520px;
+}
+.section2
+{
+	width: 68%;
+	margin-top: 12px;
+}
+.section3
+{
+	width: 68%;
+}
+.section4
+{
+	width: 68%;
+}
+.picture2
+{
+	width: 40%;
+}
+.picture2 img
+{
+	width: 75%;
+	margin-left: 10%;
+	border:5px solid #ffffbe;
+
+
+
+}
+.text2
+{
+	width: 58%;
+	line-height: 23px;
+	letter-spacing: -0.2px;
+	color: #6e6758;
+	font-weight: bold;
+	font-size: 14px;
+
+}
+.text3
+{
+
+}
+.section2 > div
+{
+	float: left;
+}
+.section3 > div
+{
+	float: left;
+}
+.section4 > div
+{
+	float: left;
+}
+
+.foot
+{
+	display: block;
+	width: 81%;
+    height:160px;
+	margin:auto auto;
+
+
+
+
+}
+.bgimg img
+{
+	display: inline-block;
+	width: 26%;
+	float: left;
+	margin-top: 1%;
+	margin-left: 3%;
+
+
+}
+.foot2
+{
+
+}
+
+
+
+
